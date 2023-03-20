@@ -1,0 +1,43 @@
+{
+	"coord": {
+		"lon": -0.1257,
+		"lat": 51.5085
+	},
+	"weather": [
+		{
+			"id": 800,
+			"main": "Clear",
+			"description": "맑음",
+			"icon": "01n"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": -4.58,
+		"feels_like": -7.88,
+		"temp_min": -6.93,
+		"temp_max": -3.46,
+		"pressure": 1009,
+		"humidity": 89
+	},
+	"visibility": 10000,
+	"wind": {
+		"speed": 2.06,
+		"deg": 280
+	},
+	"clouds": {
+		"all": 7
+	},
+	"dt": 1671089436,
+	"sys": {
+		"type": 2,
+		"id": 2075535,
+		"country": "GB",
+		"sunrise": 1671091182,
+		"sunset": 1671119494
+	},
+	"timezone": 0,
+	"id": 2643743,
+	"name": "London",
+	"cod": 200
+}

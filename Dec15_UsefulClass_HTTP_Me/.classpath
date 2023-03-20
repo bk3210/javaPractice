@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/fluent-hc-4.5.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/httpclient-4.5.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/httpclient-cache-4.5.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/httpclient-osgi-4.5.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/httpclient-win-4.5.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/httpcore-4.4.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/httpmime-4.5.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/httpcomponents-client-4.5.14-bin/lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/jar file/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/jar file/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/DBClient/instantclient_21_7/ojdbc8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
